@@ -175,8 +175,8 @@
       "light": "lightTide"
     },
     "markdownLinkText": {
-      "dark": "seafoam",
-      "light": "lightSeafoam"
+      "dark": "primary",
+      "light": "lightPrimary"
     },
     "markdownCode": {
       "dark": "crimson",
@@ -195,16 +195,16 @@
       "light": "lightAmber"
     },
     "markdownHorizontalRule": {
-      "dark": "color600",
-      "light": "lightColor600"
+      "dark": "color400",
+      "light": "lightColor400"
     },
     "markdownListItem": {
       "dark": "rust",
       "light": "lightRust"
     },
     "markdownListEnumeration": {
-      "dark": "tide",
-      "light": "lightTide"
+      "dark": "rust",
+      "light": "lightRust"
     },
     "markdownImage": {
       "dark": "coral",
@@ -215,8 +215,8 @@
       "light": "lightColor400"
     },
     "markdownCodeBlock": {
-      "dark": "color200",
-      "light": "lightColor200"
+      "dark": "sage",
+      "light": "lightSage"
     },
     "syntaxComment": {
       "dark": "color400",
