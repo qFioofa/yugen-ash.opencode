@@ -75,12 +75,17 @@ UI aspect where it appears, and syntax/markdown groups reuse those roles.
 | `syntaxVariable`     | syntax    | `#D4D4D4` | color200 (identifiers)            |
 | `syntaxPunctuation`  | syntax    | `#696969` | color400 (delimiters)             |
 
+For the full per-language port of the nvim highlight groups (legacy + Treesitter
+captures) correlated to opencode zones by semantic role and color, see
+[docs/language-groups.md](./docs/language-groups.md).
+
 ## Structure
 
 ```
-src/yugen-ash.json   theme definition
-scripts/deploy.sh     deploy script (macOS / Linux)
-scripts/deploy.bat    deploy script (Windows)
+src/yugen-ash.json           theme definition
+docs/language-groups.md      highlight groups from yugen-ash.nvim → opencode zones
+scripts/deploy.sh            deploy script (macOS / Linux)
+scripts/deploy.bat           deploy script (Windows)
 ```
 
 ## License

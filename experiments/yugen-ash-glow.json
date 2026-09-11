@@ -167,44 +167,44 @@
       "light": "lightColor200"
     },
     "markdownHeading": {
-      "dark": "crimson",
-      "light": "lightCrimson"
+      "dark": "primary",
+      "light": "lightPrimary"
     },
     "markdownLink": {
       "dark": "tide",
       "light": "lightTide"
     },
     "markdownLinkText": {
-      "dark": "seafoam",
-      "light": "lightSeafoam"
+      "dark": "primary",
+      "light": "lightPrimary"
     },
     "markdownCode": {
-      "dark": "sage",
-      "light": "lightSage"
+      "dark": "gold",
+      "light": "lightGold"
     },
     "markdownBlockQuote": {
       "dark": "color400",
       "light": "lightColor400"
     },
     "markdownEmph": {
-      "dark": "rust",
-      "light": "lightRust"
+      "dark": "coral",
+      "light": "lightCoral"
     },
     "markdownStrong": {
-      "dark": "gold",
-      "light": "lightGold"
+      "dark": "amber",
+      "light": "lightAmber"
     },
     "markdownHorizontalRule": {
-      "dark": "color500",
-      "light": "lightColor500"
+      "dark": "color400",
+      "light": "lightColor400"
     },
     "markdownListItem": {
       "dark": "primary",
       "light": "lightPrimary"
     },
     "markdownListEnumeration": {
-      "dark": "violet",
-      "light": "lightViolet"
+      "dark": "primary",
+      "light": "lightPrimary"
     },
     "markdownImage": {
       "dark": "coral",
@@ -251,8 +251,8 @@
       "light": "lightFrost"
     },
     "syntaxPunctuation": {
-      "dark": "color400",
-      "light": "lightColor400"
+      "dark": "color300",
+      "light": "lightColor300"
     }
   }
 }

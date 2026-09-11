@@ -163,68 +163,68 @@
       "light": "#F8E0E2"
     },
     "markdownText": {
-      "dark": "color200",
-      "light": "lightColor200"
+      "dark": "color100",
+      "light": "lightColor100"
     },
     "markdownHeading": {
-      "dark": "crimson",
-      "light": "lightCrimson"
+      "dark": "primary",
+      "light": "lightPrimary"
     },
     "markdownLink": {
-      "dark": "tide",
-      "light": "lightTide"
+      "dark": "color300",
+      "light": "lightColor300"
     },
     "markdownLinkText": {
-      "dark": "seafoam",
-      "light": "lightSeafoam"
+      "dark": "primary",
+      "light": "lightPrimary"
     },
     "markdownCode": {
-      "dark": "sage",
-      "light": "lightSage"
+      "dark": "color200",
+      "light": "lightColor200"
     },
     "markdownBlockQuote": {
       "dark": "color400",
       "light": "lightColor400"
     },
     "markdownEmph": {
-      "dark": "rust",
-      "light": "lightRust"
+      "dark": "color300",
+      "light": "lightColor300"
     },
     "markdownStrong": {
-      "dark": "gold",
-      "light": "lightGold"
+      "dark": "color100",
+      "light": "lightColor100"
     },
     "markdownHorizontalRule": {
-      "dark": "color500",
-      "light": "lightColor500"
+      "dark": "color600",
+      "light": "lightColor600"
     },
     "markdownListItem": {
-      "dark": "primary",
-      "light": "lightPrimary"
+      "dark": "color300",
+      "light": "lightColor300"
     },
     "markdownListEnumeration": {
-      "dark": "violet",
-      "light": "lightViolet"
+      "dark": "color300",
+      "light": "lightColor300"
     },
     "markdownImage": {
-      "dark": "coral",
-      "light": "lightCoral"
+      "dark": "color500",
+      "light": "lightColor500"
     },
     "markdownImageText": {
       "dark": "color400",
       "light": "lightColor400"
     },
     "markdownCodeBlock": {
-      "dark": "sage",
-      "light": "lightSage"
+      "dark": "color300",
+      "light": "lightColor300"
     },
     "syntaxComment": {
       "dark": "color400",
       "light": "lightColor400"
     },
     "syntaxKeyword": {
-      "dark": "crimson",
-      "light": "lightCrimson"
+      "dark": "color100",
+      "light": "lightColor100"
     },
     "syntaxFunction": {
       "dark": "primary",
@@ -235,20 +235,20 @@
       "light": "lightColor200"
     },
     "syntaxString": {
-      "dark": "sage",
-      "light": "lightSage"
+      "dark": "color200",
+      "light": "lightColor200"
     },
     "syntaxNumber": {
-      "dark": "violet",
-      "light": "lightViolet"
+      "dark": "color200",
+      "light": "lightColor200"
     },
     "syntaxType": {
-      "dark": "gold",
-      "light": "lightGold"
+      "dark": "color300",
+      "light": "lightColor300"
     },
     "syntaxOperator": {
-      "dark": "frost",
-      "light": "lightFrost"
+      "dark": "color300",
+      "light": "lightColor300"
     },
     "syntaxPunctuation": {
       "dark": "color400",
