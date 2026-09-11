@@ -67,8 +67,8 @@
       "light": "lightError"
     },
     "warning": {
-      "dark": "warning",
-      "light": "lightWarning"
+      "dark": "amber",
+      "light": "amber"
     },
     "success": {
       "dark": "success",
@@ -87,20 +87,20 @@
       "light": "lightColor400"
     },
     "background": {
-      "dark": "color800",
-      "light": "lightColor800"
+      "dark": "color700",
+      "light": "lightColor700"
     },
     "backgroundPanel": {
       "dark": "color700",
       "light": "lightColor700"
     },
     "backgroundElement": {
-      "dark": "color600",
-      "light": "lightColor600"
+      "dark": "color700",
+      "light": "lightColor700"
     },
     "border": {
-      "dark": "color500",
-      "light": "lightColor500"
+      "dark": "primary",
+      "light": "lightPrimary"
     },
     "borderActive": {
       "dark": "primary",
@@ -163,12 +163,12 @@
       "light": "#F8E0E2"
     },
     "markdownText": {
-      "dark": "color100",
-      "light": "lightColor100"
+      "dark": "color700",
+      "light": "lightColor700"
     },
     "markdownHeading": {
-      "dark": "primary",
-      "light": "lightPrimary"
+      "dark": "crimson",
+      "light": "lightCrimson"
     },
     "markdownLink": {
       "dark": "tide",
@@ -179,8 +179,8 @@
       "light": "lightSeafoam"
     },
     "markdownCode": {
-      "dark": "gold",
-      "light": "lightGold"
+      "dark": "crimson",
+      "light": "lightCrimson"
     },
     "markdownBlockQuote": {
       "dark": "color400",
@@ -191,16 +191,16 @@
       "light": "lightRust"
     },
     "markdownStrong": {
-      "dark": "primary",
-      "light": "lightPrimary"
+      "dark": "amber",
+      "light": "lightAmber"
     },
     "markdownHorizontalRule": {
       "dark": "color600",
       "light": "lightColor600"
     },
     "markdownListItem": {
-      "dark": "primary",
-      "light": "lightPrimary"
+      "dark": "rust",
+      "light": "lightRust"
     },
     "markdownListEnumeration": {
       "dark": "tide",
@@ -256,4 +256,3 @@
     }
   }
 }
-
